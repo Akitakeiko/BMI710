@@ -1,8 +1,8 @@
-#### BMI710 Project Overview
+## BMI710 Project Overview
 
 This repository hosts the materials for the BMI 710 Final Project, involving the detailed analysis of a single-cell dataset. The project encompasses data processing, quality control, and advanced analytical techniques as outlined in the course curriculum.
 
-#### Dataset Description
+## Dataset Description
 - **Source**: Selected from nine curated datasets provided by the course director on O2 cluster portal by HMS.
 - **Content**: Includes data on tissue source, dissociation procedures, and single-cell isolation methods.
 
